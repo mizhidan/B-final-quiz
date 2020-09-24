@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/TraineeSystem?serverTimezone=Asia/Shanghai&useunicode=true&characterEncoding=utf8
+    username: root
+    password: Jiayoushenghu0.
+  jpa:
+    hibernate:
+      ddl-auto: update
